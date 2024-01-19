@@ -3,7 +3,7 @@
 
 h1 {
   font-size: 3rem !important;
-  color: white;
+  color: #2d3359 !important;
 }
 
 h2 {
@@ -115,7 +115,7 @@ h6 {
   .timeline-steps .timeline-step:not(:last-child):after {
     content: '';
     display: block;
-    border-top: 0.25rem dotted #eb5b73;
+    border-top: 0.25rem dotted #e95d0f;
     width: 3.46rem;
     position: absolute;
     left: 7.5rem;
@@ -124,7 +124,7 @@ h6 {
   .timeline-steps .timeline-step:not(:first-child):before {
     content: '';
     display: block;
-    border-top: 0.25rem dotted #eb5b73;
+    border-top: 0.25rem dotted #e95d0f;
     width: 3.8125rem;
     position: absolute;
     right: 7.5rem;
@@ -144,12 +144,12 @@ h6 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: #eb5b73;
+  background-color: #e95d0f;
 }
 
 .timeline-steps .timeline-content .inner-circle:before {
   content: '';
-  background-color: #eb5b73;
+  background-color: #2d3359;
   display: inline-block;
   height: 3rem;
   width: 3rem;
