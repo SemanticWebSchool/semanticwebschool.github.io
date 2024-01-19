@@ -78,10 +78,6 @@ h6 {
   margin-left: 1rem;
 }
 
-.isws-button {
-
-}
-
 @media screen and (max-width: 768px) {
   .main-title {
     margin-bottom: 5rem;
@@ -119,7 +115,7 @@ h6 {
   .timeline-steps .timeline-step:not(:last-child):after {
     content: '';
     display: block;
-    border-top: 0.25rem dotted #e95d0f;
+    border-top: 0.25rem dotted #2d3359;
     width: 3.46rem;
     position: absolute;
     left: 7.5rem;
@@ -128,7 +124,7 @@ h6 {
   .timeline-steps .timeline-step:not(:first-child):before {
     content: '';
     display: block;
-    border-top: 0.25rem dotted #e95d0f;
+    border-top: 0.25rem dotted #2d3359;
     width: 3.8125rem;
     position: absolute;
     right: 7.5rem;
@@ -148,12 +144,12 @@ h6 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: #2d3359;
+  background-color: #e95d0f;
 }
 
 .timeline-steps .timeline-content .inner-circle:before {
   content: '';
-  background-color: #2d3359;
+  background-color: #e95d0f;
   display: inline-block;
   height: 3rem;
   width: 3rem;
