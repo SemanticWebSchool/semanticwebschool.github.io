@@ -149,11 +149,11 @@ h6 {
 
 .timeline-steps .timeline-content .inner-circle:before {
   content: '';
-  background-color: #e95d0f;
+  background-color: #2d3359;
   display: inline-block;
   height: 3rem;
   width: 3rem;
   min-width: 3rem;
   border-radius: 6.25rem;
-  opacity: 1.0;
+  opacity: 0.5;
 }
