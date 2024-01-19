@@ -3,7 +3,7 @@
 
 h1 {
   font-size: 3rem !important;
-  color: #2d3359 !important;
+  color: white !important;
 }
 
 h2 {
@@ -76,6 +76,10 @@ h6 {
 
 .navbar-button {
   margin-left: 1rem;
+}
+
+.isws-button {
+
 }
 
 @media screen and (max-width: 768px) {
@@ -155,5 +159,5 @@ h6 {
   width: 3rem;
   min-width: 3rem;
   border-radius: 6.25rem;
-  opacity: 0.5;
+  opacity: 0.7;
 }
