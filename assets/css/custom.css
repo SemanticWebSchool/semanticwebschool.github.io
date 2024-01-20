@@ -44,7 +44,14 @@ h6 {
   margin-bottom: 3rem;
 }
 
-.eswc-image {
+.venue-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+
+.orglogo {
   display: flex;
   align-items: center;
   justify-content: center;
