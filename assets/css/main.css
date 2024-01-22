@@ -4513,3 +4513,8 @@ img {
     text-transform: uppercase;
     margin: 0 0 20px 0
 }
+
+.gmap{
+    height: 400px;
+    width: 100%;
+}
