@@ -677,6 +677,11 @@ footer .menu li a:hover {
     border-color: #55acee
 }
 
+.social-icon .mastodon:hover {
+    background-color: #55acee;
+    border-color: #55acee
+}
+
 .social-icon .dribble:hover {
     background-color: #D34836;
     border-color: #D34836
