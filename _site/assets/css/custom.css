@@ -13,6 +13,11 @@ h4 {
   color: #999;
 }
 
+.tagline {
+  font-size: 1.8rem !important;
+  color: white !important;
+}
+
 h3 {
   font-size: 1.5rem !important;
   color: #444 !important;
